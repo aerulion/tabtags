@@ -1,0 +1,13 @@
+name: TabTags
+description: TabTags.
+main: net.aerulion.tabtags.Main
+version: 1.0
+api-version: 1.16
+author: aerulion
+commands:
+  tabtagsreload:
+    description: Reload config.
+permissions:
+  TabTags.Reload:
+    description: Zeigt den Spieler als Supportfähig in der Tabliste.
+    default: op
